@@ -10,8 +10,7 @@ A brief outline of the project files is provided here:
                          Model optimisation: trainingAR.py
   
           2) ARIMA models - Assimilation files: interpolationARIMA.py; ensembleKFARIMA.py
-                            Exploratory work: ARIMA.py
-                            Model optimisation: trainingARIMA
+                            Model optimisation: ARIMA.py
            
           3) LSTM models - Assimilation files: interpolationLSTM.py; ensembleKFLSTM.py
                            Exploratory work: testRNN.py
